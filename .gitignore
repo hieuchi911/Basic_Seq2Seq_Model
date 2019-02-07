@@ -1,0 +1,7 @@
+__pycache__
+*.ipynb_checkpoints
+helper.py
+*.tar
+seq2seq.py
+sequence_to_sequence_implementation_practices.ipynb
+.DS_Store
